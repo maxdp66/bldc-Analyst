@@ -1,8 +1,8 @@
 # bldc Analyst
 Brushless motor analyst for small electrical vehicles
-Analyst to monitor performance of bldc motor and battery pack. As well as to gather 
+Analyser to monitor performance of bldc motor and battery pack. As well as to gather 
 performance data to analyze autonomy and range in various situations.
-This repository is not yet finnished and needs to be ported to an ESP32 as I am running
+This repository is not yet finished and needs to be ported to an ESP32 as I am running
 out of memory on the Arduino Nano.
 
 I have tried to add as much comments in the code as possible, for you to understand what is going on.
